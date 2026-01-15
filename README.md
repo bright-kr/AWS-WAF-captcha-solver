@@ -2,14 +2,14 @@
 
 [![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/products/web-unlocker/captcha-solver/aws-waf-captcha)
 
-Bright Data의 고급 CAPTCHA 해결 기술로 AWS WAF CAPTCHA를 손쉽게 우회합니다. 머신러닝 알고리즘, [자동화된 IP 로테이션](https://brightdata.co.kr/solutions/rotating-proxies), 그리고 견고한 プロキシ 인프라를 활용하여 타깃 사이트에 대한 원활하고 일관된 액세스를 보장합니다.  
+Bright Data의 고급 CAPTCHA 해결 기술로 AWS WAF CAPTCHA를 손쉽게 우회합니다. 머신러닝 알고리즘, [자동화된 IP 로테이션](https://brightdata.co.kr/solutions/rotating-proxies), 그리고 견고한 프록시 인프라를 활용하여 타깃 사이트에 대한 원활하고 일관된 액세스를 보장합니다.  
 
 Bright Data의 CAPTCHA Solver는 [**Scraping Browser**](https://brightdata.co.kr/products/scraping-browser) 및 [**Web Unlocker API**](https://brightdata.co.kr/products/web-unlocker)의 내장 기능으로 제공되며, 가장 복잡한 CAPTCHA 챌린지까지 처리할 수 있는 완전한 솔루션을 제공합니다.  
 
 
 ## Features  
 - **Rapid CAPTCHA Solving**: 높은 정확도와 속도로 AWS WAF CAPTCHA를 자동으로 해결합니다.  
-- **IP Rotation**: 자동 リトライ 및 동적 IP 조정으로 차단을 방지합니다.  
+- **IP Rotation**: 자동 재시도 및 동적 IP 조정으로 차단을 방지합니다.  
 - **Browser Fingerprinting**: 실제 사용자 활동을 모방하여 [고도화된 봇 탐지 우회](https://brightdata.co.kr/blog/web-data/anti-scraping-techniques)가 가능하도록 합니다.  
 - **JavaScript Rendering**: JavaScript 비중이 큰 사이트의 동적 콘텐츠를 처리합니다.  
 - **Worldwide Geo-Coverage**: 정밀한 위치 지정으로 전 세계 모든 지역의 콘텐츠를 언락합니다.  
@@ -22,18 +22,18 @@ Bright Data의 CAPTCHA Solver는 [**Scraping Browser**](https://brightdata.co.kr
 Bright Data의 CAPTCHA Solver는 독보적인 신뢰성과 성능으로 개발자, 기업, 엔터프라이즈 고객에게 신뢰받고 있습니다.  
 
 ### **Powered by a Premium Proxy Network**  
-1억 개 이상의 IP와 고급 지리 타깃팅 기능을 통해, 당사의 プロキシ 인프라는 원활하고 중단 없는 CAPTCHA 해결을 보장합니다.  
+1억 개 이상의 IP와 고급 지리 타깃팅 기능을 통해, 당사의 프록시 인프라는 원활하고 중단 없는 CAPTCHA 해결을 보장합니다.  
 
 ### **AI-Driven CAPTCHA Solving**  
-당사의 CAPTCHA Solver는 고급 AI 기반 로직을 사용하여 CAPTCHA를 자동으로 감지, 분석 및 해결합니다. 또한 リトライ, 브라우자フィンガープリント, ヘッダー를 처리하여 가장 정교한 アンチボット 조치까지 우회합니다.  
+당사의 CAPTCHA Solver는 고급 AI 기반 로직을 사용하여 CAPTCHA를 자동으로 감지, 분석 및 해결합니다. 또한 재시도, 브라우자フィンガープリント, 헤더를 처리하여 가장 정교한 안티봇 조치까지 우회합니다.  
 
 ### **Built for Developers**  
 - Puppeteer, Playwright, Selenium과의 손쉬운 연동을 제공합니다.  
 - CAPTCHA 해결 동작을 위한 완전 맞춤형 설정을 지원합니다.  
-- 중단 없는 スクレイピング을 위해 자동 リトライ 및 동적 IP 조정을 제공합니다.
+- 중단 없는 스크레이핑을 위해 자동 재시도 및 동적 IP 조정을 제공합니다.
 
 > **Pro Tip 💡**
->> 이미 CAPTCHA 해결 구성을 사용 중이신가요? [Puppeteer](https://brightdata.co.kr/integration/puppeteer), [Playwright](https://brightdata.co.kr/integration/playwright), [Selenium](https://brightdata.co.kr/integration/selenium)용 プロキシ로 이를 강화하여 CAPTCHA 챌린지를 최소화하십시오.
+>> 이미 CAPTCHA 해결 구성을 사용 중이신가요? [Puppeteer](https://brightdata.co.kr/integration/puppeteer), [Playwright](https://brightdata.co.kr/integration/playwright), [Selenium](https://brightdata.co.kr/integration/selenium)용 프록시로 이를 강화하여 CAPTCHA 챌린지를 최소화하십시오.
 
 ## How It Works  
 
@@ -104,7 +104,7 @@ try {
 #### Example Workflow:  
 1. **Detect CAPTCHA**: 솔버가 CAPTCHA 유형(예: AWS WAF)을 식별합니다.  
 2. **Solve CAPTCHA**: AI 기반 로직을 사용하여 솔버가 CAPTCHA를 해결합니다.  
-3. **Retry on Failure**: 해결에 실패하면 시스템이 새로운 IP로 자동 リトライ합니다.  
+3. **Retry on Failure**: 해결에 실패하면 시스템이 새로운 IP로 자동 재시도합니다.  
 4. **Return Results**: 해결이 완료되면 시스템이 타깃 사이트에 대한 원활한 액세스를 제공합니다.  
 
 ## Supported CAPTCHA Types  
@@ -141,9 +141,9 @@ Bright Data의 CAPTCHA Solver는 다음을 포함한 다양한 CAPTCHA 유형을
 
 | **Plan**         | **Price (1K Results)** | **Monthly Cost** | **Description**                                  |  
 |-------------------|------------------------|------------------|------------------------------------------------|  
-| **Pay-as-you-go** | $1.50                 | No commitment    | 수시로 발생하는 スクレイピング 요구에 이상적입니다.               |  
+| **Pay-as-you-go** | $1.50                 | No commitment    | 수시로 발생하는 스크레이핑 요구에 이상적입니다.               |  
 | **Growth**        | $1.27                 | $499             | 확장 중인 팀에 맞게 설계되었습니다.                    |  
-| **Business**      | $1.12                 | $999             | 대규모 スクレイピング 운영에 적합합니다.  |  
+| **Business**      | $1.12                 | $999             | 대규모 스크레이핑 운영에 적합합니다.  |  
 | **Premium**       | $1.05                 | $1,999           | 우선 지원을 포함한 고급 기능을 제공합니다.       |  
 | **Enterprise**    | Custom Quote          | Contact Us       | 최상위 비즈니스 요구에 맞춘 커스텀 패키지입니다.   |  
 
@@ -151,7 +151,7 @@ Bright Data의 CAPTCHA Solver는 다음을 포함한 다양한 CAPTCHA 유형을
 
 ## **Why Developers Love AWS WAF CAPTCHA Solver**  
 - **Easy Integration**: Puppeteer, Playwright, Selenium과 원활하게 연동됩니다.  
-- **Advanced AI-Based Logic**: リトライ, CAPTCHA 해결, 브라우자フィンガープリント, IP 로테이션, 고급 ヘッダー를 자동으로 처리합니다.  
+- **Advanced AI-Based Logic**: 재시도, CAPTCHA 해결, 브라우자フィンガープリント, IP 로테이션, 고급 헤더를 자동으로 처리합니다.  
 - **Built-in Browser**: JavaScript 렌더링을 위해 외부 브라우저를 관리할 필요가 없습니다.  
 - **Real-Time Insights**: 라이브 대시보드를 통해 네트워크 성능을 모니터링합니다.  
 - **Unmatched Support**: 매일 새로운 기능이 추가되며, 24/7 글로벌 고객 지원을 제공합니다.  
@@ -162,7 +162,7 @@ Bright Data의 CAPTCHA Solver는 다음을 포함한 다양한 CAPTCHA 유형을
 솔버는 고급 AI 기반 로직을 사용하여 AWS WAF CAPTCHA를 자동으로 감지하고 해결합니다.  
 
 ### **Can it handle multiple CAPTCHAs simultaneously?**  
-예, 이 솔루션은 여러 CAPTCHA 유형을 同時接続로 처리할 수 있도록 확장 가능하며, 중단 없는 액세스를 보장합니다.  
+예, 이 솔루션은 여러 CAPTCHA 유형을 동시 연결로 처리할 수 있도록 확장 가능하며, 중단 없는 액세스를 보장합니다.  
 
 ### **What happens if CAPTCHA solving fails?**  
 리ト라이가 자동으로 시도됩니다. 문제가 지속되면 24/7 지원 팀에 문의하여 문제를 해결하십시오.  
